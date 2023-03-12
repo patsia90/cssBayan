@@ -1,1 +1,1 @@
-https://patsia90.github.io/cssBayan/index
+https://patsia90.github.io/cssBayan/index.html
